@@ -1,0 +1,9 @@
+header {
+  background: green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+aside {
+  background: #da667b url() center center no-repeat;
+  background-position-x: 0%;
+}
